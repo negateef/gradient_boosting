@@ -4,7 +4,7 @@ Command line utility for gradient boosting on decision trees
 ## Installation
 To install the CLI, please use 
 
-`pip install https://github.com/negateef/gradient_boosting`
+`pip install https://github.com/negateef/gradient_boosting/archive/master.zip`
 
 ## Usage
 
